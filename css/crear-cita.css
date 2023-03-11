@@ -1,0 +1,81 @@
+h1 {
+    font-size: 35px;
+}
+h3 {
+    font-size: 15px;
+}
+.contenedor {
+    margin-top: 10%;
+}
+.bloque {
+    margin-top: 10px;
+    padding-left: 25px;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+}
+input {
+    height: 22px;
+    border-radius: 7px;
+    color: black;
+}
+a {
+    color: blue;
+}
+ul {
+    margin-left: 15px;
+    list-style: none;
+    /* padding: 3px; */
+}
+li {
+    float: left;
+    background-color: blueviolet;
+    color: cornflowerblue;
+    border: 1px solid black;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.pos {
+    background-color: white;
+}
+.card {
+    width: 90%;
+    height: 100px;
+    background-color: white;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+}
+.card-header {
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    color: cornflowerblue;
+}
+.card-body {
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 5px;
+}
+.izquierda-boton {
+    float: left;
+    padding: 10px 15px;
+    background-color: blue;
+    margin-top: 50px;
+}
+.derecha-boton {
+    float: right;
+    padding: 10px 15px;
+    background-color: blue;
+    margin-top: 50px;
+}
+button:hover {
+    background-color: cornflowerblue;
+}
